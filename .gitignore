@@ -3,6 +3,8 @@
 out
 gen
 .expo/
-.idea/
-!/.idea/caches/
+!.idea/
+!.idea/caches/
 *.xml
+
+
