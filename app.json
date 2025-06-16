@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-maps",
+      "expo-font",
+      "expo-sqlite",
+      "expo-router"
+    ]
   }
 }
