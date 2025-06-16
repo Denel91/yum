@@ -6,4 +6,5 @@
 out
 gen
 .expo/
-.idea/caches
+.idea/
+!/.idea/caches/
